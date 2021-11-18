@@ -1,0 +1,27 @@
+header {
+    margin: 10px 0px 0px 0px;
+    font-family: Arial, serif;
+    color: #ffffff;
+    text-align: center;
+    background-color: #176317;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+}
+body{
+    background-color: #8cce8c;
+}
+img[src $=".png"] {
+    width: 35px;
+    height: 35px;
+    margin: auto;
+}
+.table1{
+    margin-top: 10px;
+}
+.mobile-table {
+    margin: 20px auto auto;
+    width: 700px;
+}
+
+.table {
+    overflow-y: scroll;
+}
